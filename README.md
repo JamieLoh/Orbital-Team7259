@@ -5,19 +5,19 @@ Orbital Project by Team Deepsick (7259)
 How to Run This Project
 1. Download and install XAMPP
 2. Move the project folder
-	Copy the entire Canteam folder into the htdocs directory inside your XAMPP installation folder 
+	- Copy the entire Canteam folder into the htdocs directory inside your XAMPP installation folder 
 3. Start necessary XAMPP modules
-	Open the XAMPP Control Panel and click "Start" for both Apache and MySQL
+	- Open the XAMPP Control Panel and click "Start" for both Apache and MySQL
 4. Access the project in your browser
-	Open a web browser and enter the following URL: http://localhost/Canteam/Register and Login
+	- Open a web browser and enter the following (URL: http://localhost/Canteam/Register and Login)
 5. Done!
-	The project should now be up and running
+	- The project should now be up and running
 
 How to Import the Database via phpMyAdmin
 1. Start the MySQL module in XAMPP
-	Make sure MySQL is running in the XAMPP Control Panel (as stated before)
+	- Make sure MySQL is running in the XAMPP Control Panel (as stated before)
 2. Open phpMyAdmin
-	Go to your browser and enter the following URL: http://localhost/phpmyadmin
+	- Go to your browser and enter the following URL: http://localhost/phpmyadmin
 3. Create a new database
 	- Click on the "Databases" tab at the top
 	- In the Database name field, enter "user_db" (this is the database name required for the project)
@@ -28,4 +28,4 @@ How to Import the Database via phpMyAdmin
 	- Click Choose File, then locate and select the ".sql" file you want to import (here use "user_db.sql")
 	- Click the "Import" button
 5. Done!
-	The database should now be successfully imported
+	- The database should now be successfully imported

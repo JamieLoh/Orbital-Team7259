@@ -5,7 +5,7 @@ Orbital Project by Team Deepsick (7259)
 How to Run This Project
 1. Download and install XAMPP
 2. Move the project folder
-	- Copy the entire Canteam folder into the htdocs directory inside your XAMPP installation folder 
+	- Copy the entire Canteam folder into the "htdocs" directory inside your XAMPP installation folder 
 3. Start necessary XAMPP modules
 	- Open the XAMPP Control Panel and click "Start" for both Apache and MySQL
 4. Access the project in your browser
